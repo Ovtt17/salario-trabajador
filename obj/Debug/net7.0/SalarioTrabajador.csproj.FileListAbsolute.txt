@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\bin\Debug\net7.0\SalarioTrabajador.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\bin\Debug\net7.0\SalarioTrabajador.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\bin\Debug\net7.0\SalarioTrabajador.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\bin\Debug\net7.0\SalarioTrabajador.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\bin\Debug\net7.0\SalarioTrabajador.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\refint\SalarioTrabajador.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\SalarioTrabajador.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-3\SalarioTrabajador\obj\Debug\net7.0\ref\SalarioTrabajador.dll
